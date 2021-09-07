@@ -1,7 +1,7 @@
 import java.util.Scanner; 
 import java.util.Arrays;
 
-public class OnARoll 
+public class Roll 
 {
     public static void main(String[] args) 
 	{
